@@ -1,3 +1,3 @@
 # Grunt-Angular
 
-[![Build Status](https://travis-ci.org/manuelkiessling/angular-seed-enhanced.png?branch=master)](https://travis-ci.org/manuelkiessling/angular-seed-enhanced)
+[![Build Status](https://travis-ci.org/rohitcmohan/Grunt-Angular.svg?branch=master)](https://travis-ci.org/rohitcmohan/Grunt-Angular)
